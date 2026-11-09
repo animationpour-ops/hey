@@ -1,0 +1,28 @@
+{
+  "itemGroup.divinefishing": "Pêche Divine",
+
+  "item.divinefishing.divine_rod": "Canne Divine",
+  "item.divinefishing.divine_rod.desc": "Incassable. L'appât mord presque instantanément.",
+  "item.divinefishing.divine_rod.desc2": "Pêche des items divins très souvent.",
+
+  "item.divinefishing.judgment_blade": "Lame du Jugement",
+  "item.divinefishing.judgment_blade.desc": "Chaque coup foudroie la cible. Clic droit : trois éclairs du ciel.",
+
+  "item.divinefishing.void_orb": "Orbe du Néant",
+  "item.divinefishing.void_orb.desc": "Clic droit : ouvre un trou noir qui aspire et écrase tout, puis s'effondre.",
+
+  "item.divinefishing.chrono_hourglass": "Sablier de Chronos",
+  "item.divinefishing.chrono_hourglass.desc": "Clic droit : arrête le temps autour de toi pendant 8 secondes.",
+
+  "item.divinefishing.meteor_staff": "Sceptre Météore",
+  "item.divinefishing.meteor_staff.desc": "Clic droit : fait tomber une pluie de météores sur ta cible.",
+
+  "item.divinefishing.phoenix_heart": "Cœur de Phénix",
+  "item.divinefishing.phoenix_heart.desc": "Clic droit : soin total et explosion de flammes. Dans l'inventaire, annule ta mort.",
+
+  "item.divinefishing.angel_feather": "Plume d'Ange",
+  "item.divinefishing.angel_feather.desc": "Clic droit : vol pendant 90 secondes. Reclique pour te poser.",
+
+  "tooltip.divinefishing.cooldown": "Recharge : %s s",
+  "message.divinefishing.catch": "✦ Pêche divine : %s ✦"
+}

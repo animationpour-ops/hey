@@ -1,0 +1,28 @@
+{
+  "itemGroup.divinefishing": "Divine Fishing",
+
+  "item.divinefishing.divine_rod": "Divine Rod",
+  "item.divinefishing.divine_rod.desc": "Unbreakable. The lure bites almost instantly.",
+  "item.divinefishing.divine_rod.desc2": "Very often catches divine items.",
+
+  "item.divinefishing.judgment_blade": "Blade of Judgment",
+  "item.divinefishing.judgment_blade.desc": "Every hit strikes the target with lightning. Right click: three bolts from the sky.",
+
+  "item.divinefishing.void_orb": "Orb of the Void",
+  "item.divinefishing.void_orb.desc": "Right click: opens a black hole that pulls in and crushes everything, then collapses.",
+
+  "item.divinefishing.chrono_hourglass": "Hourglass of Chronos",
+  "item.divinefishing.chrono_hourglass.desc": "Right click: stops time around you for 8 seconds.",
+
+  "item.divinefishing.meteor_staff": "Meteor Scepter",
+  "item.divinefishing.meteor_staff.desc": "Right click: rains meteors down on your target.",
+
+  "item.divinefishing.phoenix_heart": "Phoenix Heart",
+  "item.divinefishing.phoenix_heart.desc": "Right click: full heal and a burst of flames. In your inventory, it cancels your death.",
+
+  "item.divinefishing.angel_feather": "Angel Feather",
+  "item.divinefishing.angel_feather.desc": "Right click: fly for 90 seconds. Click again to land.",
+
+  "tooltip.divinefishing.cooldown": "Cooldown: %s s",
+  "message.divinefishing.catch": "✦ Divine catch: %s ✦"
+}
